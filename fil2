@@ -1,0 +1,5 @@
+
+echo "Hello Guys,"
+touch ashraf.txt
+echo "Hello Guys, Welcome to Jenkins Classes" >> ashraf.txt
+echo "Done..!!"
